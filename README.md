@@ -29,23 +29,32 @@ Test the system for all supported transaction scenarios.
 Verify correct handling of exceptions and edge cases (like insufficient balance).
 
 # DIAGRAMS:
+
 USECASE DIAGRAM:
+
 ![(atm)UseCaseDiagram](https://github.com/user-attachments/assets/faa42990-d314-49a0-9db9-37564d6fc5cd)
 
 
 
+
 CLASS DIAGRAM:
+
 ![(atm)ClassDiagram](https://github.com/user-attachments/assets/933dd342-e077-45de-adc3-d261070ec651)
 
 
 
+
 SEQUENCE DIAGRAM:
+
 ![(atm)SequenceDiagram](https://github.com/user-attachments/assets/96928e8e-b549-476d-adbe-27ecc8ff9848)
 
 
 
+
 ACTIVITY DIAGRAM:
+
 ![(atm)ActivityDiagram](https://github.com/user-attachments/assets/46e7738b-5a34-412e-8236-08ae914265f2)
+
 
 
 
@@ -54,8 +63,11 @@ COMMUNNICATION DIAGRAM:
 
 
 
+
 PACKAGE DIAGRAM:
+
 ![(atm)PackageDiagram](https://github.com/user-attachments/assets/849f8c50-e6c3-40e3-a11d-c76c4f21d392)
+
 
 
 
